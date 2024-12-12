@@ -27,6 +27,11 @@ body{
     transition: all 0.3s;
 }
 
+hr{
+    margin:10px;
+}
+
+
 .isolate{
     unicode-bidi: isolate;
 }
